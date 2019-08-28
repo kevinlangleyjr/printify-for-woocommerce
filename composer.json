@@ -1,0 +1,15 @@
+{
+    "name": "kevinlangleyjr/printify-for-woocommerce",
+    "description": "Create custom products with your design and sell on your WooCommerce powered store with Printify.",
+    "license": "GPLv2+",
+    "authors": [
+        {
+            "name": "Kevin Langley Jr",
+            "email": "  me@kevinlangleyjr.com"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "autoload": {
+        "files": ["printify.php"]
+    }
+}
